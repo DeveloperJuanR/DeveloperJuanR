@@ -1,7 +1,15 @@
 <h1>Hi 👋, I'm Juan</h1>
-<p>A passionate aspiring full-stack developer | Healthcare professional turned developer</p>
+<p><strong>A passionate aspiring Full-Stack Developer</strong></p>
+<h2>👨‍💻 About Me</h2>
+<p>
+  I’m a healthcare professional currently pursuing a <strong>Bachelor’s degree in Computer Science at Florida International University</strong>. My passion for software development was born from my reliance on technology in the healthcare field, where I witnessed firsthand the   transformative impact of reliable and resilient systems. Today, I am driven to build software that embodies the same level of trust, dependability, and innovation that once supported me in my work. 
+</p>
 <h2>📚 Currently Learning</h2>
-<p>How to build full-stack web applications utilizing the  <strong>MERN</strong> stack</p>
+<ul>
+  <li>How to build full-stack web applications utilizing the  <strong>MERN</strong> stack</li>
+  <li>Mobile Application Development [ 🏫 Florida International University ]</li>
+  <li>Software Testing [ 🏫 Florida International University ]</li>
+</ul>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
