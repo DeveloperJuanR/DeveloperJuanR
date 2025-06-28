@@ -9,7 +9,7 @@
   As the founder of <a href="https://kabienhealth.com/" target="_blank">Kabien Health</a>, I’ve built a real-time workflow prototype for surgical teams using SwiftUI and MVVM. I've also developed full-stack iOS apps, responsive web experiences, and REST APIs across a variety of tech stacks.
 </p>
 <p>
-  I’m passionate about building user-centered, resilient systems—whether in health tech, developer tools, or mission-driven software. I’m currently exploring junior to mid-level roles where I can contribute to production code, collaborate with great teams, and keep growing across the stack.
+  I’m passionate about building user-centered, resilient systems, whether in health tech, developer tools, or mission-driven software. I’m currently exploring junior to mid-level roles where I can contribute to production code, collaborate with great teams, and keep growing across the stack.
 </p>
 
 <h2>📁 Featured Projects</h2>
